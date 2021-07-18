@@ -1,0 +1,11 @@
+p{
+    color: red !important;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    background-color:rgb(31, 187, 101);
+
+}
+h1,h2,h3,h4{
+    color:blue;
+}
